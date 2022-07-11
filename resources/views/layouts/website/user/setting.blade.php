@@ -7,20 +7,6 @@ Me
 
 @section('content')
 
-<!-- <form action="{{route('user.store')}}" method="POST" enctype="multipart/form-data">
-    @csrf
-    @method('PUT')
-    {{ csrf_field() }}
-    {{ method_field('put') }}
-    <input type="text" name="t">
-    <input type="submit">
-</form> -->
-
-
-<!-- <div class="CircleBadge CircleBadge--large" style="position:absolute;left:1000px">
-  <img src="https://github.com/travis-ci.png"  alt="Travis CI" class="CircleBadge-icon" />
-</div> -->
-
 <div class="col-sm-12 col-xl-6" style="position:absolute;left:450px;top:80px">
                         <div class="bg-secondary rounded h-100 p-4">
                             <h6 class="mb-4" style="margin-left:270px">Personal Info</h6>
